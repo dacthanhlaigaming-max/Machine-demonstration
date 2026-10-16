@@ -1,0 +1,6 @@
+{
+  "name": "TexTear 3D - Mô Phỏng Máy Xé Vải Công Nghiệp",
+  "description": "Phần mềm mô phỏng 3D/2D máy xé vải, cấu hình trục & trống, dao cắt, phân tích cự ly khe hở milimet, kiểm tra xung đột hướng quay, lực căng thời gian thực và hệ thống hút bụi xơ bông.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
